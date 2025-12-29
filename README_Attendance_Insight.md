@@ -47,7 +47,7 @@ Human Resources required a centralised reporting solution to:
 ---
 
 ## Visual Reference
-![Attendance Insight Dashboard](./attendance_dashboard.png)
+![Attendance Insight Dashboard](./HR Attandence.png)
 
 ---
 
